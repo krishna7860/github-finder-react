@@ -1,4 +1,4 @@
-# Github Finder - By React
+# Github Finder - With React
 
 **A Github API Project Displaying User Profiles on Search and Also U Can Check Details Related to their Profile and Repos and Followers**
 
